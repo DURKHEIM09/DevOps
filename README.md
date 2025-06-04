@@ -59,9 +59,9 @@ Acredito que engenharia de verdade exige clareza, honestidade com o processo, e 
 DevOps/
 ├── projects/
 
-│ ├── minimalista-cloding/
+│   ├── minimalista-cloding/
 
-│ └── [outros-projetos]
+│   └── [outros-projetos]
 
 ├── shared/
 
