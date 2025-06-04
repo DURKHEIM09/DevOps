@@ -57,7 +57,8 @@ Acredito que engenharia de verdade exige clareza, honestidade com o processo, e 
 ## 🧱 Estrutura do Repositório
 
 DevOps/
-├── projects/
+
+  ├── projects/
 
 │   ├── minimalista-cloding/
 
