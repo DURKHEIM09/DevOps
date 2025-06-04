@@ -1,7 +1,7 @@
-📦 Etapa 2 – Containerização da Aplicação com Docker
+# 📦 Etapa 2 – Containerização da Aplicação com Docker
 Nesta etapa, o foco é criar uma aplicação simples em Python Flask, containerizá-la usando Docker e testá-la localmente com Docker Compose.
 
-🧱 Estrutura da Aplicação
+## 🧱 Estrutura da Aplicação
 bash
 Copiar
 Editar
