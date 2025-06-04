@@ -58,11 +58,17 @@ Acredito que engenharia de verdade exige clareza, honestidade com o processo, e 
 
 DevOps/
 ├── projects/
+
 │ ├── minimalista-cloding/
+
 │ └── [outros-projetos]
+
 ├── shared/
+
 ├── .github/
+
 ├── LICENSE
+
 └── CONTRIBUTING.md
 
 
