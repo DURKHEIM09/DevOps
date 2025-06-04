@@ -43,7 +43,7 @@ Copiar
 Editar
 flask
 Dockerfile
-Dockerfile
+dockerfile
 Copiar
 Editar
 FROM python:3.11-slim
@@ -91,3 +91,4 @@ Base pronta para futura orquestração no Kubernetes
 Nessa etapa eu tive alguns problemas, mas foram bem tranquilos de resolver. Um problema que eu tive foi referente à porta 5000 — já tinha um serviço anterior utilizando essa porta. Quando eu rodava a aplicação Flask, ela dava erro direto. Aí eu troquei a porta para 5001, atualizei no script e rodei de novo. Depois disso, subiu tranquilo.
 
 Outro detalhe foi com permissão de arquivo. Eu fui executar um script e ele não tinha permissão de execução (+x), então deu erro. Aí eu só dei o chmod +x e rodei de novo, funcionou normal.
+
