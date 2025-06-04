@@ -116,7 +116,7 @@ Stack DevOps pré-instalada
 
 SSH remoto ativo
 ```
-🗣️ Depoimento Pessoal
+##🗣️ Depoimento Pessoal
 
 Essa etapa de criação da máquina virtual foi relativamente tranquila. Já tenho um bom domínio sobre criação e gerenciamento de VMs no Windows com Hyper-V, então segui um processo direto.
 
