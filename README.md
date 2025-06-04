@@ -65,9 +65,7 @@ DevOps/
 ├── LICENSE
 └── CONTRIBUTING.md
 
-yaml
-Copiar
-Editar
+
 
 ---
 
