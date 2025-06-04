@@ -57,11 +57,16 @@ Acredito que engenharia de verdade exige clareza, honestidade com o processo, e 
 ## 🧱 Estrutura do Repositório
 
 ```
-projects/
-└── minimalista-cloding/
-    └── etapa-3-deploy-kubernetes/
-        ├── README.md
-        ├── deployment.yaml
-        └── service.yaml
+devops/
+└── projects/
+    └── minimalista-cloding/
+        ├── etapa-1-vm/
+        │   └── README.md
+        ├── etapa-2-containerizacao-da-aplicacao/
+        │   └── README.md
+        ├── etapa-3-deploy-kubernetes/
+        │   ├── README.md
+
+       
 ```
 
