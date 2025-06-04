@@ -116,7 +116,8 @@ Stack DevOps pré-instalada
 
 SSH remoto ativo
 ```
-🗣️ Depoimento Pessoal (Lucas)
+🗣️ Depoimento Pessoal
+
 Essa etapa de criação da máquina virtual foi relativamente tranquila. Já tenho um bom domínio sobre criação e gerenciamento de VMs no Windows com Hyper-V, então segui um processo direto.
 
 O único detalhe técnico foi a necessidade de desativar o Secure Boot na BIOS. Isso aconteceu porque, por conta do anti-cheat do Valorant (Vanguard), eu havia ativado o Secure Boot anteriormente, e ele conflitou com a ISO personalizada do Ubuntu — que não era reconhecida como segura pela UEFI. Após desativar, o sistema subiu normalmente.
